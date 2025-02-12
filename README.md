@@ -56,11 +56,6 @@ Ensure you have the following installed:
    npm start
    ```
 
-## 🚀 Deployment
-For deployment, you can use:
-- **Frontend**: Vercel / Netlify
-- **Backend**: Heroku / AWS / Firebase Functions
-
 ## 🤝 Contributing
 We welcome contributions! To contribute:
 1. Fork the repository.
@@ -74,5 +69,5 @@ This project is licensed under the **MIT License**.
 
 ## 📞 Contact
 👤 **Sahil Singh**  
-📧 Email: [sahil@example.com](mailto:sahil@example.com)  
+📧 Email: [sahilsingh0532@gmail.com.com](mailto:sahilsingh0532@gmail.com)  
 🔗 GitHub: [sahilsingh0532](https://github.com/sahilsingh0532)
